@@ -38,9 +38,10 @@
 		<meta property="group-position" refines="#collection-1">2</meta>
 		<dc:description id="description">Although wanted by Scotland Yard for previous crimes, the Four Just Men decide to match wits with the Red Hundred, an anarchist group bent on raising havoc in Britain.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Published in 1908, &lt;i&gt;The Council of Justice&lt;/i&gt; continues the adventures of the Four Just Men.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Council of Justice&lt;/i&gt; continues the adventures of the Four Just Men.&lt;/p&gt;
 			&lt;p&gt;The Red Hundred, an anarchist organization led by a woman of unmatched oratorical skill, known as the Woman of Gratz, has set its sight on the destruction of several British institutions. The Four Just Men, a band of wealthy gentlemen notorious for punishing those unreachable by conventional justice appear to be the only group capable of opposing the Red Hundred.&lt;/p&gt;
 			&lt;p&gt;After a successful campaign of assassinating several prominent ringleaders and thwarting plans of the Red Hundred, Manfred, a member of the Four Just Men is betrayed, captured and sentenced to death. As the date of Manfred’s scheduled execution near, his mood remains curiously upbeat. Does he know something the authorities don’t?&lt;/p&gt;
+			&lt;p&gt;This book was published in 1908, a low point in &lt;a href="https://standardebooks.org/ebooks/edgar-wallace"&gt;Edgar Wallace’s&lt;/a&gt; career. Finding his popularity waning, he sold this book for only seventy or eighty pounds and spent much of his time keeping creditors at bay. Luckily shortly afterward, Wallace created his very successful “Sanders of the River” series of stories, making him one of the most widely-read British authors of his time.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20201001</dc:source>
