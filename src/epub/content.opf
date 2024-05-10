@@ -46,7 +46,7 @@
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20201001</dc:source>
 		<dc:source>https://archive.org/details/fourjustmen0000edga</dc:source>
 		<meta property="se:word-count">44893</meta>
-		<meta property="se:reading-ease.flesch">71.44</meta>
+		<meta property="se:reading-ease.flesch">71.55</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Council_of_Justice</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-wallace_the-council-of-justice</meta>
 		<dc:creator id="author">Edgar Wallace</dc:creator>
